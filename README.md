@@ -4,9 +4,9 @@
 
 In this project, i have enhanced the Car Borrowing Dapp by adding a "Detail Car" feature. This feature allows users to view detailed information about a car listed on the platform by clicking on it. It displays crucial information like the car's name, description, and an image for a more comprehensive view.
 
-## Why We Chose This Feature
+## Why i Chose This Feature
 
-The "Detail Car" feature was added to enhance the user experience and provide more transparency when browsing available cars. By clicking on a car, users can access vital details about it, helping them make informed decisions. This feature aligns with our goal to create a user-friendly and informative platform for car borrowing.
+The "Detail Car" feature was added to enhance the user experience and provide more transparency when browsing available cars. By clicking on a detail car button, users can access vital details about it, helping them make informed decisions. This feature aligns with our goal to create a user-friendly and informative platform for car borrowing.
 
 ## How the Feature Works
 
